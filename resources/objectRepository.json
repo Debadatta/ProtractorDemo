@@ -1,0 +1,15 @@
+{
+    "loginPage":
+    {
+      "userName": ["txtUsername"],
+      "password": ["txtPassword"],
+      "loginButton": ["btnLogin"],
+      "invalidLoginMessage": ["spanMessage"],
+      "loginPanel": ["logInPanelHeading"]
+    },
+
+    "dashBoardPage":
+    {
+      "header": ["//h1[contains(text(),'Dashboard')]"]
+    }
+}

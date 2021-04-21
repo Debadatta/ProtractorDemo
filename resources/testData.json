@@ -1,0 +1,9 @@
+{
+    "application": {
+      "baseUrl": "https://opensource-demo.orangehrmlive.com/index.php"
+    },
+    "login": {
+      "username": "Admin",
+      "password": "admin123"
+    }
+}
